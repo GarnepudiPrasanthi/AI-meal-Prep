@@ -1,0 +1,6 @@
+{
+  "name": "TrimPrep",
+  "description": "Smart meal prep planner and recipe generator for weight loss using your available ingredients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
